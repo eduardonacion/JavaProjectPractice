@@ -1,0 +1,18 @@
+ant -f "C:\\Users\\Eduardo Nacion\\Documents\\NetBeansProjects\\JavaApplication4" -Dnb.internal.action.name=run run
+init:
+Deleting: C:\Users\Eduardo Nacion\Documents\NetBeansProjects\JavaApplication4\build\built-jar.properties
+deps-jar:
+Updating property file: C:\Users\Eduardo Nacion\Documents\NetBeansProjects\JavaApplication4\build\built-jar.properties
+Compiling 1 source file to C:\Users\Eduardo Nacion\Documents\NetBeansProjects\JavaApplication4\build\classes
+warning: [options] bootstrap class path not set in conjunction with -source 8
+1 warning
+compile:
+run:
+						UNIVERSITY OF SANTO TOMAS
+						ESPENA BLVD., MANILA 1015
+					    TEL.(632)406.1611: www.ust.edu.ph
+		Student No. 2019127867 	 M 	 Year:	 1st year 	  AY/Term 		2019-2020 1st Semester 	#01
+		Name Nacion, Eduardo Gabriel S. 			  College 		26IICS
+		Unit 404 The Amoranto Place 48 Ipo corner 		  Program/Major 03	Information Systems
+		Angelo Street Barangay NS Amoranto LA 			  Curriculum Code 			 26-03
+BUILD SUCCESSFUL (total time: 1 second)
